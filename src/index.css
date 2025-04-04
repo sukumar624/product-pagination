@@ -14,6 +14,8 @@ Root CSS
 
 :root {
   --bodyFont: "Roboto", sans-serif;
+  --lightGreen: #5F8B4C;
+  --lightBlue: #27548A;
 }
 
 /*
